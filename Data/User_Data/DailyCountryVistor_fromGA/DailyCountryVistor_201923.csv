@@ -1,0 +1,828 @@
+﻿country,vistornum,sessionnum,logdate
+(not set),1,1,2019-06-03
+China,1,1,2019-06-03
+Germany,1,1,2019-06-03
+Hong Kong,7,8,2019-06-03
+Hungary,1,1,2019-06-03
+Iraq,1,1,2019-06-03
+Japan,10,13,2019-06-03
+Malaysia,1,1,2019-06-03
+South Korea,1,1,2019-06-03
+Taiwan,538,963,2019-06-03
+United Kingdom,1,2,2019-06-03
+United States,2,3,2019-06-03
+(not set),1,3,2019-06-04
+China,1,1,2019-06-04
+Germany,1,1,2019-06-04
+Hong Kong,8,9,2019-06-04
+Japan,3,3,2019-06-04
+Malaysia,1,1,2019-06-04
+Taiwan,507,882,2019-06-04
+Thailand,1,1,2019-06-04
+United States,4,6,2019-06-04
+(not set),2,2,2019-06-05
+Egypt,1,1,2019-06-05
+Germany,1,3,2019-06-05
+Hong Kong,3,4,2019-06-05
+Japan,2,7,2019-06-05
+Malaysia,2,7,2019-06-05
+Singapore,2,2,2019-06-05
+Taiwan,479,788,2019-06-05
+Thailand,1,2,2019-06-05
+United States,4,4,2019-06-05
+(not set),1,1,2019-06-06
+Australia,1,1,2019-06-06
+China,3,3,2019-06-06
+Hong Kong,1,1,2019-06-06
+Indonesia,1,1,2019-06-06
+Japan,1,4,2019-06-06
+Malaysia,2,5,2019-06-06
+Taiwan,426,727,2019-06-06
+Thailand,1,1,2019-06-06
+United States,6,6,2019-06-06
+China,1,1,2019-06-07
+France,3,3,2019-06-07
+Hong Kong,2,2,2019-06-07
+Malaysia,2,5,2019-06-07
+Maldives,1,1,2019-06-07
+Taiwan,360,704,2019-06-07
+United States,3,3,2019-06-07
+(not set),1,1,2019-06-08
+China,5,5,2019-06-08
+Germany,1,1,2019-06-08
+Hong Kong,5,5,2019-06-08
+India,1,2,2019-06-08
+Indonesia,1,1,2019-06-08
+Japan,4,4,2019-06-08
+Maldives,1,1,2019-06-08
+Taiwan,309,695,2019-06-08
+United States,4,4,2019-06-08
+China,2,2,2019-06-09
+Germany,1,4,2019-06-09
+Hong Kong,3,3,2019-06-09
+Maldives,1,1,2019-06-09
+Philippines,1,1,2019-06-09
+South Africa,1,1,2019-06-09
+Taiwan,386,816,2019-06-09
+United States,4,4,2019-06-09
+(not set),3,6,2019-06-10
+Canada,1,3,2019-06-10
+China,3,3,2019-06-10
+France,1,1,2019-06-10
+Germany,1,5,2019-06-10
+Hong Kong,5,6,2019-06-10
+India,1,1,2019-06-10
+Japan,8,16,2019-06-10
+Malaysia,2,2,2019-06-10
+Maldives,1,1,2019-06-10
+South Africa,1,1,2019-06-10
+Taiwan,740,1301,2019-06-10
+United Kingdom,1,1,2019-06-10
+United States,5,6,2019-06-10
+(not set),1,1,2019-06-11
+Canada,1,1,2019-06-11
+China,3,3,2019-06-11
+France,1,1,2019-06-11
+Germany,1,3,2019-06-11
+Hong Kong,1,1,2019-06-11
+Japan,4,9,2019-06-11
+Malaysia,1,1,2019-06-11
+Singapore,1,1,2019-06-11
+South Africa,2,2,2019-06-11
+Taiwan,575,1114,2019-06-11
+United States,6,7,2019-06-11
+(not set),1,1,2019-06-12
+China,2,2,2019-06-12
+Germany,1,1,2019-06-12
+Hong Kong,1,1,2019-06-12
+Malaysia,2,2,2019-06-12
+South Africa,2,2,2019-06-12
+Taiwan,537,960,2019-06-12
+United Kingdom,1,1,2019-06-12
+United States,2,2,2019-06-12
+(not set),1,2,2019-06-13
+Canada,2,2,2019-06-13
+China,2,2,2019-06-13
+Egypt,1,1,2019-06-13
+France,1,1,2019-06-13
+Germany,3,4,2019-06-13
+Hong Kong,2,2,2019-06-13
+Japan,3,11,2019-06-13
+Singapore,1,1,2019-06-13
+Taiwan,523,937,2019-06-13
+United Arab Emirates,1,1,2019-06-13
+United States,8,10,2019-06-13
+China,1,1,2019-06-14
+Germany,3,8,2019-06-14
+Hong Kong,1,1,2019-06-14
+Japan,6,12,2019-06-14
+Malaysia,2,2,2019-06-14
+Taiwan,425,758,2019-06-14
+United States,7,7,2019-06-14
+Australia,1,1,2019-06-15
+China,1,1,2019-06-15
+Hong Kong,1,1,2019-06-15
+India,1,1,2019-06-15
+Japan,3,4,2019-06-15
+Malaysia,1,1,2019-06-15
+Singapore,2,2,2019-06-15
+Taiwan,373,769,2019-06-15
+Thailand,1,1,2019-06-15
+United States,1,1,2019-06-15
+China,1,1,2019-06-16
+Hong Kong,6,6,2019-06-16
+Japan,3,4,2019-06-16
+Macao,1,1,2019-06-16
+Malaysia,2,2,2019-06-16
+Taiwan,447,976,2019-06-16
+Thailand,1,2,2019-06-16
+Vietnam,1,1,2019-06-16
+(not set),5,7,2019-06-17
+Austria,1,1,2019-06-17
+China,5,5,2019-06-17
+Germany,1,1,2019-06-17
+Hong Kong,2,4,2019-06-17
+Japan,6,7,2019-06-17
+Malaysia,2,5,2019-06-17
+Netherlands,1,1,2019-06-17
+South Africa,1,2,2019-06-17
+Switzerland,1,5,2019-06-17
+Taiwan,526,926,2019-06-17
+Thailand,1,1,2019-06-17
+United States,11,15,2019-06-17
+China,6,9,2019-06-18
+France,1,1,2019-06-18
+Germany,1,2,2019-06-18
+Hong Kong,2,2,2019-06-18
+Japan,3,6,2019-06-18
+Malaysia,3,4,2019-06-18
+Mexico,1,1,2019-06-18
+Switzerland,1,2,2019-06-18
+Taiwan,475,839,2019-06-18
+Thailand,1,1,2019-06-18
+United States,4,4,2019-06-18
+China,4,5,2019-06-19
+France,2,2,2019-06-19
+Hong Kong,4,4,2019-06-19
+Indonesia,2,2,2019-06-19
+Japan,9,12,2019-06-19
+Malaysia,3,4,2019-06-19
+Switzerland,1,1,2019-06-19
+Taiwan,399,630,2019-06-19
+United States,4,4,2019-06-19
+(not set),1,2,2019-06-20
+China,1,1,2019-06-20
+France,1,1,2019-06-20
+Germany,1,4,2019-06-20
+Hong Kong,4,4,2019-06-20
+Japan,2,2,2019-06-20
+Malaysia,2,3,2019-06-20
+Taiwan,422,706,2019-06-20
+Thailand,1,2,2019-06-20
+United Kingdom,1,1,2019-06-20
+United States,8,8,2019-06-20
+(not set),1,3,2019-06-21
+Canada,1,1,2019-06-21
+China,3,4,2019-06-21
+Germany,2,2,2019-06-21
+Hong Kong,3,3,2019-06-21
+Japan,3,6,2019-06-21
+Malaysia,2,3,2019-06-21
+Netherlands,1,1,2019-06-21
+Russia,3,3,2019-06-21
+South Africa,1,1,2019-06-21
+Taiwan,368,587,2019-06-21
+United Kingdom,1,1,2019-06-21
+United States,5,6,2019-06-21
+Vietnam,1,1,2019-06-21
+China,2,2,2019-06-22
+Germany,2,3,2019-06-22
+Hong Kong,2,2,2019-06-22
+Japan,2,9,2019-06-22
+Taiwan,273,499,2019-06-22
+United States,1,1,2019-06-22
+Australia,1,1,2019-06-23
+China,3,3,2019-06-23
+Germany,1,2,2019-06-23
+Hong Kong,2,2,2019-06-23
+Japan,2,7,2019-06-23
+Malaysia,1,1,2019-06-23
+Taiwan,304,538,2019-06-23
+United Kingdom,1,1,2019-06-23
+United States,3,3,2019-06-23
+(not set),2,2,2019-06-24
+Germany,1,3,2019-06-24
+Hong Kong,3,3,2019-06-24
+Japan,5,8,2019-06-24
+Malaysia,3,3,2019-06-24
+Taiwan,444,808,2019-06-24
+United Kingdom,1,2,2019-06-24
+United States,2,2,2019-06-24
+(not set),1,1,2019-06-25
+Austria,1,1,2019-06-25
+China,3,3,2019-06-25
+Germany,4,6,2019-06-25
+Hong Kong,2,2,2019-06-25
+Ireland,1,1,2019-06-25
+Japan,4,7,2019-06-25
+Malaysia,2,2,2019-06-25
+Netherlands,2,2,2019-06-25
+Russia,3,3,2019-06-25
+Singapore,1,1,2019-06-25
+Taiwan,430,774,2019-06-25
+Thailand,1,1,2019-06-25
+United Kingdom,1,1,2019-06-25
+United States,4,5,2019-06-25
+Vietnam,3,3,2019-06-25
+(not set),1,1,2019-06-26
+China,2,2,2019-06-26
+Germany,2,3,2019-06-26
+Hong Kong,1,1,2019-06-26
+Japan,3,3,2019-06-26
+Malaysia,2,5,2019-06-26
+Taiwan,376,632,2019-06-26
+United States,6,9,2019-06-26
+Vietnam,1,1,2019-06-26
+(not set),1,1,2019-06-27
+China,1,1,2019-06-27
+Germany,2,5,2019-06-27
+Hong Kong,2,2,2019-06-27
+Japan,5,7,2019-06-27
+Malaysia,2,2,2019-06-27
+Taiwan,381,645,2019-06-27
+United States,5,6,2019-06-27
+(not set),1,3,2019-06-28
+China,1,1,2019-06-28
+Germany,2,2,2019-06-28
+Hong Kong,3,3,2019-06-28
+Japan,4,4,2019-06-28
+Taiwan,346,545,2019-06-28
+United States,2,3,2019-06-28
+Austria,1,1,2019-06-29
+China,5,5,2019-06-29
+Germany,2,4,2019-06-29
+Hong Kong,1,1,2019-06-29
+Japan,4,4,2019-06-29
+Philippines,1,1,2019-06-29
+Taiwan,245,474,2019-06-29
+United States,4,4,2019-06-29
+(not set),1,1,2019-06-30
+Canada,2,3,2019-06-30
+China,7,7,2019-06-30
+Egypt,1,1,2019-06-30
+Germany,2,4,2019-06-30
+Hong Kong,3,3,2019-06-30
+Japan,4,6,2019-06-30
+Micronesia,1,1,2019-06-30
+Singapore,1,1,2019-06-30
+Taiwan,270,522,2019-06-30
+Thailand,1,1,2019-06-30
+United States,3,3,2019-06-30
+(not set),1,1,2019-07-01
+Canada,2,2,2019-07-01
+China,1,1,2019-07-01
+Egypt,2,2,2019-07-01
+Germany,2,6,2019-07-01
+Hong Kong,6,6,2019-07-01
+Japan,7,7,2019-07-01
+Macao,1,1,2019-07-01
+Malaysia,1,1,2019-07-01
+Singapore,1,2,2019-07-01
+Taiwan,428,748,2019-07-01
+Thailand,2,2,2019-07-01
+United States,9,9,2019-07-01
+Canada,2,2,2019-07-02
+China,1,6,2019-07-02
+Germany,1,2,2019-07-02
+Hong Kong,2,2,2019-07-02
+Ireland,1,1,2019-07-02
+Japan,5,6,2019-07-02
+Netherlands,2,2,2019-07-02
+Russia,1,1,2019-07-02
+Singapore,1,1,2019-07-02
+Taiwan,413,737,2019-07-02
+Thailand,1,1,2019-07-02
+United States,4,6,2019-07-02
+China,6,13,2019-07-03
+Germany,2,5,2019-07-03
+Hong Kong,5,5,2019-07-03
+Japan,4,5,2019-07-03
+Malaysia,1,1,2019-07-03
+Northern Mariana Islands,1,1,2019-07-03
+Singapore,2,2,2019-07-03
+Taiwan,410,667,2019-07-03
+Thailand,1,1,2019-07-03
+United States,4,4,2019-07-03
+China,7,10,2019-07-04
+France,1,1,2019-07-04
+Hong Kong,4,4,2019-07-04
+Japan,3,4,2019-07-04
+Malaysia,1,1,2019-07-04
+Singapore,1,1,2019-07-04
+Taiwan,390,654,2019-07-04
+United States,9,9,2019-07-04
+(not set),2,3,2019-07-05
+China,3,4,2019-07-05
+Germany,3,6,2019-07-05
+Japan,4,7,2019-07-05
+Malaysia,1,3,2019-07-05
+Netherlands,1,1,2019-07-05
+Singapore,1,1,2019-07-05
+Taiwan,363,597,2019-07-05
+United Arab Emirates,1,1,2019-07-05
+United States,2,2,2019-07-05
+Canada,1,1,2019-07-06
+China,3,4,2019-07-06
+France,1,1,2019-07-06
+Germany,1,3,2019-07-06
+Hong Kong,6,6,2019-07-06
+Japan,1,2,2019-07-06
+Taiwan,256,500,2019-07-06
+United States,5,5,2019-07-06
+China,7,9,2019-07-07
+Germany,2,4,2019-07-07
+Hong Kong,5,8,2019-07-07
+Japan,4,5,2019-07-07
+Malaysia,2,2,2019-07-07
+Taiwan,279,567,2019-07-07
+United States,3,3,2019-07-07
+China,4,10,2019-07-08
+France,1,3,2019-07-08
+Germany,1,2,2019-07-08
+Hong Kong,1,1,2019-07-08
+India,1,1,2019-07-08
+Ireland,1,2,2019-07-08
+Japan,6,7,2019-07-08
+Malaysia,2,2,2019-07-08
+Philippines,1,1,2019-07-08
+Singapore,2,2,2019-07-08
+Taiwan,420,766,2019-07-08
+Thailand,1,3,2019-07-08
+United States,6,7,2019-07-08
+China,2,6,2019-07-09
+Germany,2,5,2019-07-09
+Hong Kong,3,3,2019-07-09
+India,1,2,2019-07-09
+Japan,4,5,2019-07-09
+Malaysia,1,1,2019-07-09
+Philippines,1,1,2019-07-09
+Singapore,1,2,2019-07-09
+Taiwan,387,718,2019-07-09
+Thailand,1,1,2019-07-09
+United States,1,3,2019-07-09
+China,2,5,2019-07-10
+Germany,2,3,2019-07-10
+Hong Kong,5,5,2019-07-10
+Japan,5,10,2019-07-10
+Macao,1,1,2019-07-10
+Malaysia,1,1,2019-07-10
+Philippines,1,1,2019-07-10
+Singapore,2,3,2019-07-10
+Taiwan,376,653,2019-07-10
+Thailand,1,1,2019-07-10
+United States,4,5,2019-07-10
+Australia,1,1,2019-07-11
+China,9,12,2019-07-11
+Germany,3,6,2019-07-11
+Hong Kong,6,6,2019-07-11
+Japan,7,10,2019-07-11
+Malaysia,2,3,2019-07-11
+Mexico,1,5,2019-07-11
+Singapore,7,7,2019-07-11
+Switzerland,1,1,2019-07-11
+Taiwan,431,750,2019-07-11
+Ukraine,2,2,2019-07-11
+United States,6,7,2019-07-11
+(not set),5,5,2019-07-12
+Canada,1,1,2019-07-12
+China,1,1,2019-07-12
+Germany,3,4,2019-07-12
+Hong Kong,3,3,2019-07-12
+Japan,4,7,2019-07-12
+Malaysia,2,4,2019-07-12
+Mexico,2,4,2019-07-12
+Taiwan,346,645,2019-07-12
+Thailand,1,2,2019-07-12
+United States,4,4,2019-07-12
+Canada,1,1,2019-07-13
+China,4,5,2019-07-13
+Germany,2,4,2019-07-13
+Hong Kong,2,2,2019-07-13
+Indonesia,1,1,2019-07-13
+Japan,3,3,2019-07-13
+Mexico,1,2,2019-07-13
+New Zealand,1,1,2019-07-13
+Taiwan,289,559,2019-07-13
+United States,7,9,2019-07-13
+Germany,1,4,2019-07-14
+Hong Kong,3,3,2019-07-14
+Japan,4,4,2019-07-14
+Malaysia,2,2,2019-07-14
+Mexico,2,9,2019-07-14
+Russia,3,3,2019-07-14
+Taiwan,300,623,2019-07-14
+Thailand,1,1,2019-07-14
+United Kingdom,1,1,2019-07-14
+United States,2,2,2019-07-14
+(not set),5,5,2019-07-15
+Canada,1,1,2019-07-15
+China,4,5,2019-07-15
+France,2,3,2019-07-15
+Germany,3,6,2019-07-15
+Hong Kong,6,6,2019-07-15
+Ireland,1,1,2019-07-15
+Japan,6,6,2019-07-15
+Mexico,3,8,2019-07-15
+Singapore,2,2,2019-07-15
+Switzerland,1,5,2019-07-15
+Taiwan,418,732,2019-07-15
+Thailand,1,4,2019-07-15
+United States,8,8,2019-07-15
+(not set),1,1,2019-07-16
+Cambodia,1,1,2019-07-16
+China,3,8,2019-07-16
+France,1,2,2019-07-16
+Germany,2,3,2019-07-16
+Hong Kong,1,1,2019-07-16
+Japan,5,7,2019-07-16
+Macao,1,1,2019-07-16
+Malaysia,1,2,2019-07-16
+Mexico,1,2,2019-07-16
+Singapore,3,5,2019-07-16
+Taiwan,420,760,2019-07-16
+United States,4,4,2019-07-16
+Australia,3,3,2019-07-17
+China,1,5,2019-07-17
+Germany,2,5,2019-07-17
+Hong Kong,7,9,2019-07-17
+Japan,5,5,2019-07-17
+Malaysia,1,3,2019-07-17
+Mexico,1,5,2019-07-17
+Netherlands,2,2,2019-07-17
+Singapore,2,6,2019-07-17
+South Korea,1,3,2019-07-17
+Taiwan,389,641,2019-07-17
+Thailand,1,1,2019-07-17
+United States,5,5,2019-07-17
+Australia,1,1,2019-07-18
+China,2,4,2019-07-18
+France,1,1,2019-07-18
+Germany,2,4,2019-07-18
+Hong Kong,13,13,2019-07-18
+Japan,5,7,2019-07-18
+Malaysia,1,1,2019-07-18
+Mexico,1,4,2019-07-18
+Singapore,3,5,2019-07-18
+Taiwan,389,678,2019-07-18
+United Arab Emirates,1,1,2019-07-18
+United States,4,4,2019-07-18
+(not set),1,1,2019-07-19
+China,3,4,2019-07-19
+Colombia,1,1,2019-07-19
+Germany,2,3,2019-07-19
+Hong Kong,4,5,2019-07-19
+Japan,4,5,2019-07-19
+Mexico,2,3,2019-07-19
+Philippines,1,1,2019-07-19
+Singapore,4,7,2019-07-19
+Taiwan,348,626,2019-07-19
+United States,4,5,2019-07-19
+Germany,1,3,2019-07-20
+Hong Kong,3,3,2019-07-20
+Indonesia,1,1,2019-07-20
+Japan,2,2,2019-07-20
+Mexico,2,6,2019-07-20
+Philippines,2,2,2019-07-20
+Russia,1,1,2019-07-20
+Taiwan,284,567,2019-07-20
+United States,5,5,2019-07-20
+China,10,13,2019-07-21
+Germany,1,2,2019-07-21
+Hong Kong,5,5,2019-07-21
+Japan,5,6,2019-07-21
+Malaysia,2,3,2019-07-21
+Russia,5,5,2019-07-21
+Taiwan,306,619,2019-07-21
+United States,4,4,2019-07-21
+(not set),1,1,2019-07-22
+Australia,1,1,2019-07-22
+Canada,1,1,2019-07-22
+China,4,8,2019-07-22
+Germany,1,2,2019-07-22
+Hong Kong,3,3,2019-07-22
+Japan,2,2,2019-07-22
+Macao,3,3,2019-07-22
+Malaysia,2,3,2019-07-22
+Singapore,2,2,2019-07-22
+Spain,1,1,2019-07-22
+Taiwan,422,760,2019-07-22
+Thailand,1,1,2019-07-22
+United States,2,2,2019-07-22
+(not set),2,2,2019-07-23
+Canada,3,3,2019-07-23
+China,24,33,2019-07-23
+Germany,1,2,2019-07-23
+Hong Kong,6,6,2019-07-23
+Malaysia,1,1,2019-07-23
+Singapore,2,2,2019-07-23
+South Korea,1,1,2019-07-23
+Taiwan,412,782,2019-07-23
+United States,5,5,2019-07-23
+(not set),1,1,2019-07-24
+China,8,12,2019-07-24
+Germany,1,2,2019-07-24
+Guam,1,2,2019-07-24
+Hong Kong,7,8,2019-07-24
+Japan,5,5,2019-07-24
+Malaysia,2,2,2019-07-24
+Russia,3,3,2019-07-24
+Singapore,3,3,2019-07-24
+Taiwan,406,698,2019-07-24
+United States,6,6,2019-07-24
+Canada,2,2,2019-07-25
+China,4,6,2019-07-25
+Egypt,1,1,2019-07-25
+Germany,1,2,2019-07-25
+Guam,1,5,2019-07-25
+Hong Kong,9,13,2019-07-25
+Hungary,1,1,2019-07-25
+Japan,1,1,2019-07-25
+Macao,1,1,2019-07-25
+Malaysia,2,2,2019-07-25
+Singapore,1,3,2019-07-25
+Taiwan,401,707,2019-07-25
+United States,6,6,2019-07-25
+China,1,4,2019-07-26
+Egypt,1,1,2019-07-26
+Germany,2,4,2019-07-26
+Hong Kong,7,11,2019-07-26
+Japan,6,6,2019-07-26
+Malaysia,1,2,2019-07-26
+Singapore,1,1,2019-07-26
+Taiwan,358,594,2019-07-26
+United States,12,12,2019-07-26
+Vietnam,1,1,2019-07-26
+China,4,5,2019-07-27
+Germany,1,2,2019-07-27
+Hong Kong,2,2,2019-07-27
+Japan,8,8,2019-07-27
+Taiwan,261,471,2019-07-27
+United States,1,1,2019-07-27
+Australia,1,1,2019-07-28
+China,2,2,2019-07-28
+Hong Kong,5,5,2019-07-28
+Japan,2,2,2019-07-28
+Macao,1,1,2019-07-28
+Singapore,2,2,2019-07-28
+Taiwan,269,521,2019-07-28
+Canada,1,1,2019-07-29
+China,2,11,2019-07-29
+Hong Kong,11,11,2019-07-29
+Japan,2,2,2019-07-29
+Macao,1,2,2019-07-29
+Malaysia,2,4,2019-07-29
+Singapore,1,2,2019-07-29
+Taiwan,380,686,2019-07-29
+United Kingdom,1,2,2019-07-29
+United States,5,5,2019-07-29
+(not set),2,2,2019-07-30
+China,5,10,2019-07-30
+Hong Kong,7,7,2019-07-30
+Ireland,1,1,2019-07-30
+Japan,5,6,2019-07-30
+Macao,1,1,2019-07-30
+Malaysia,1,1,2019-07-30
+Singapore,3,3,2019-07-30
+Taiwan,423,740,2019-07-30
+United States,4,5,2019-07-30
+(not set),1,1,2019-07-31
+Australia,1,1,2019-07-31
+China,4,8,2019-07-31
+Germany,2,4,2019-07-31
+Hong Kong,15,16,2019-07-31
+Japan,1,1,2019-07-31
+Malaysia,1,1,2019-07-31
+Taiwan,379,618,2019-07-31
+United States,3,3,2019-07-31
+(not set),2,2,2019-08-01
+China,3,6,2019-08-01
+Czechia,1,1,2019-08-01
+Germany,1,2,2019-08-01
+Hong Kong,17,19,2019-08-01
+India,1,1,2019-08-01
+Japan,1,1,2019-08-01
+Macao,1,1,2019-08-01
+Malaysia,1,1,2019-08-01
+Singapore,1,1,2019-08-01
+Taiwan,637,1037,2019-08-01
+United States,5,5,2019-08-01
+(not set),1,1,2019-08-02
+Austria,1,1,2019-08-02
+China,3,5,2019-08-02
+Germany,2,3,2019-08-02
+Hong Kong,10,11,2019-08-02
+Ireland,1,1,2019-08-02
+Japan,1,1,2019-08-02
+Malaysia,2,2,2019-08-02
+Singapore,1,1,2019-08-02
+Taiwan,550,928,2019-08-02
+United Kingdom,1,2,2019-08-02
+United States,8,13,2019-08-02
+China,4,7,2019-08-03
+Czechia,1,1,2019-08-03
+Germany,1,5,2019-08-03
+Hong Kong,4,4,2019-08-03
+Japan,9,9,2019-08-03
+South Korea,2,2,2019-08-03
+Taiwan,326,579,2019-08-03
+United States,6,6,2019-08-03
+China,3,7,2019-08-04
+Germany,1,5,2019-08-04
+Hong Kong,4,5,2019-08-04
+Japan,2,2,2019-08-04
+Taiwan,357,645,2019-08-04
+United Kingdom,1,1,2019-08-04
+United States,3,4,2019-08-04
+(not set),3,3,2019-08-05
+Czechia,1,2,2019-08-05
+Hong Kong,9,11,2019-08-05
+Japan,5,5,2019-08-05
+Singapore,1,1,2019-08-05
+South Korea,2,2,2019-08-05
+Taiwan,545,955,2019-08-05
+United States,7,8,2019-08-05
+(not set),1,1,2019-08-06
+Germany,2,6,2019-08-06
+Hong Kong,11,16,2019-08-06
+Ireland,1,1,2019-08-06
+Japan,2,2,2019-08-06
+Malaysia,3,3,2019-08-06
+Singapore,3,3,2019-08-06
+Taiwan,522,938,2019-08-06
+United Kingdom,1,1,2019-08-06
+United States,4,4,2019-08-06
+Australia,1,1,2019-08-07
+China,1,2,2019-08-07
+Czechia,1,1,2019-08-07
+Germany,1,2,2019-08-07
+Hong Kong,7,8,2019-08-07
+Japan,1,3,2019-08-07
+Singapore,5,6,2019-08-07
+Taiwan,532,921,2019-08-07
+United Kingdom,1,1,2019-08-07
+United States,9,9,2019-08-07
+(not set),2,2,2019-08-08
+Belize,1,1,2019-08-08
+Canada,1,1,2019-08-08
+China,5,5,2019-08-08
+Germany,2,4,2019-08-08
+Hong Kong,7,13,2019-08-08
+Ireland,1,1,2019-08-08
+Japan,5,5,2019-08-08
+Malaysia,1,1,2019-08-08
+Russia,1,1,2019-08-08
+Singapore,1,1,2019-08-08
+Taiwan,448,764,2019-08-08
+United States,7,7,2019-08-08
+China,1,1,2019-08-09
+Germany,1,2,2019-08-09
+Hong Kong,9,10,2019-08-09
+Japan,2,2,2019-08-09
+Macao,1,2,2019-08-09
+Malaysia,1,1,2019-08-09
+Sri Lanka,1,1,2019-08-09
+Sweden,1,3,2019-08-09
+Taiwan,412,729,2019-08-09
+United States,5,5,2019-08-09
+Vietnam,1,1,2019-08-09
+China,7,7,2019-08-10
+Germany,3,5,2019-08-10
+Hong Kong,10,14,2019-08-10
+Japan,3,3,2019-08-10
+Sweden,1,1,2019-08-10
+Taiwan,356,650,2019-08-10
+United States,3,3,2019-08-10
+Vietnam,1,1,2019-08-10
+China,5,5,2019-08-11
+Germany,1,3,2019-08-11
+Hong Kong,4,6,2019-08-11
+Japan,6,6,2019-08-11
+Taiwan,406,718,2019-08-11
+United States,2,2,2019-08-11
+(not set),1,2,2019-08-12
+China,1,1,2019-08-12
+Germany,4,8,2019-08-12
+Hong Kong,6,8,2019-08-12
+Malaysia,1,1,2019-08-12
+Singapore,1,1,2019-08-12
+Taiwan,559,1039,2019-08-12
+United States,2,2,2019-08-12
+Vietnam,1,1,2019-08-12
+(not set),3,3,2019-08-13
+Canada,1,4,2019-08-13
+China,2,2,2019-08-13
+Czechia,2,2,2019-08-13
+Denmark,1,1,2019-08-13
+Germany,3,6,2019-08-13
+Hong Kong,6,10,2019-08-13
+Ireland,1,1,2019-08-13
+Japan,3,3,2019-08-13
+Malaysia,1,1,2019-08-13
+Netherlands,1,1,2019-08-13
+Singapore,3,7,2019-08-13
+South Africa,2,2,2019-08-13
+Taiwan,567,977,2019-08-13
+United States,5,6,2019-08-13
+Vietnam,1,1,2019-08-13
+(not set),2,3,2019-08-14
+Canada,2,6,2019-08-14
+Germany,3,5,2019-08-14
+Hong Kong,4,4,2019-08-14
+Japan,1,1,2019-08-14
+Macao,1,1,2019-08-14
+Malaysia,3,3,2019-08-14
+Russia,1,1,2019-08-14
+Singapore,4,9,2019-08-14
+Taiwan,470,774,2019-08-14
+United Arab Emirates,1,1,2019-08-14
+United Kingdom,2,2,2019-08-14
+United States,3,3,2019-08-14
+(not set),1,1,2019-08-15
+Canada,1,4,2019-08-15
+Germany,2,4,2019-08-15
+Hong Kong,7,9,2019-08-15
+Malaysia,2,2,2019-08-15
+Russia,1,1,2019-08-15
+Singapore,2,5,2019-08-15
+Taiwan,482,793,2019-08-15
+United Kingdom,2,2,2019-08-15
+United States,5,5,2019-08-15
+(not set),1,2,2019-08-16
+China,4,4,2019-08-16
+Germany,4,6,2019-08-16
+Hong Kong,7,12,2019-08-16
+Ireland,1,1,2019-08-16
+Poland,1,1,2019-08-16
+Singapore,2,3,2019-08-16
+South Korea,1,1,2019-08-16
+Taiwan,412,650,2019-08-16
+United States,6,7,2019-08-16
+Canada,1,1,2019-08-17
+China,5,5,2019-08-17
+Japan,5,5,2019-08-17
+Malaysia,1,1,2019-08-17
+Singapore,2,5,2019-08-17
+Taiwan,354,591,2019-08-17
+Thailand,1,1,2019-08-17
+United States,3,3,2019-08-17
+(not set),1,1,2019-08-18
+China,2,2,2019-08-18
+Germany,1,1,2019-08-18
+Hong Kong,6,9,2019-08-18
+Japan,6,7,2019-08-18
+Malaysia,3,3,2019-08-18
+Singapore,3,4,2019-08-18
+Taiwan,363,621,2019-08-18
+United States,5,6,2019-08-18
+(not set),2,6,2019-08-19
+China,4,4,2019-08-19
+Germany,1,2,2019-08-19
+Hong Kong,7,9,2019-08-19
+India,1,1,2019-08-19
+Japan,3,3,2019-08-19
+Macao,1,1,2019-08-19
+Malaysia,2,2,2019-08-19
+Singapore,3,4,2019-08-19
+South Africa,1,1,2019-08-19
+Taiwan,544,907,2019-08-19
+United States,4,4,2019-08-19
+(not set),2,2,2019-08-20
+China,4,4,2019-08-20
+Germany,2,3,2019-08-20
+Hong Kong,10,15,2019-08-20
+Japan,9,9,2019-08-20
+Malaysia,2,2,2019-08-20
+Singapore,1,1,2019-08-20
+Taiwan,512,817,2019-08-20
+United Kingdom,1,1,2019-08-20
+United States,2,2,2019-08-20
+(not set),5,7,2019-08-21
+China,3,3,2019-08-21
+Hong Kong,8,14,2019-08-21
+Japan,8,8,2019-08-21
+Philippines,1,1,2019-08-21
+Singapore,4,5,2019-08-21
+Taiwan,500,743,2019-08-21
+United States,1,1,2019-08-21
+Vietnam,1,2,2019-08-21
+(not set),1,2,2019-08-22
+China,6,6,2019-08-22
+Hong Kong,10,12,2019-08-22
+Ireland,1,1,2019-08-22
+Japan,2,2,2019-08-22
+Malaysia,1,1,2019-08-22
+Netherlands,1,1,2019-08-22
+Singapore,8,10,2019-08-22
+Taiwan,512,765,2019-08-22
+United Kingdom,3,3,2019-08-22
+United States,2,2,2019-08-22

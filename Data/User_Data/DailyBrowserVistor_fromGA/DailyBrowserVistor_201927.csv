@@ -1,0 +1,66 @@
+﻿browser,vistornum,sessionnum,logdate
+(not set),1,1,2019-06-30
+Android Webview,2,3,2019-06-30
+Chrome,240,461,2019-06-30
+Edge,8,22,2019-06-30
+Firefox,12,18,2019-06-30
+Internet Explorer,2,2,2019-06-30
+Safari,24,41,2019-06-30
+UC Browser,5,5,2019-06-30
+(not set),2,2,2019-07-01
+Android Webview,3,3,2019-07-01
+Chrome,397,686,2019-07-01
+Edge,9,15,2019-07-01
+Firefox,10,16,2019-07-01
+Internet Explorer,2,3,2019-07-01
+Opera,1,1,2019-07-01
+Safari,29,55,2019-07-01
+Safari (in-app),4,4,2019-07-01
+UC Browser,3,3,2019-07-01
+(not set),1,1,2019-07-02
+Android Webview,2,2,2019-07-02
+Chrome,361,651,2019-07-02
+Edge,10,16,2019-07-02
+Firefox,10,22,2019-07-02
+Internet Explorer,1,1,2019-07-02
+Opera,4,4,2019-07-02
+Safari,39,62,2019-07-02
+Safari (in-app),5,7,2019-07-02
+UC Browser,1,1,2019-07-02
+Android Webview,2,2,2019-07-03
+Chrome,373,612,2019-07-03
+Edge,7,12,2019-07-03
+Firefox,12,22,2019-07-03
+Internet Explorer,2,2,2019-07-03
+Opera,1,1,2019-07-03
+Safari,29,46,2019-07-03
+Safari (in-app),4,4,2019-07-03
+Samsung Internet,2,2,2019-07-03
+YaBrowser,1,1,2019-07-03
+Android Webview,2,2,2019-07-04
+Chrome,362,604,2019-07-04
+Edge,6,9,2019-07-04
+Firefox,9,13,2019-07-04
+Internet Explorer,1,1,2019-07-04
+Safari,27,48,2019-07-04
+Safari (in-app),6,6,2019-07-04
+UC Browser,1,1,2019-07-04
+Android Webview,1,1,2019-07-05
+Chrome,334,551,2019-07-05
+Edge,7,15,2019-07-05
+Firefox,4,12,2019-07-05
+Internet Explorer,4,6,2019-07-05
+Safari,20,32,2019-07-05
+Safari (in-app),5,5,2019-07-05
+Samsung Internet,1,1,2019-07-05
+UC Browser,2,2,2019-07-05
+Android Webview,1,1,2019-07-06
+Chrome,224,453,2019-07-06
+Edge,6,7,2019-07-06
+Firefox,6,10,2019-07-06
+Mozilla Compatible Agent,1,1,2019-07-06
+Opera,1,1,2019-07-06
+Safari,29,44,2019-07-06
+Safari (in-app),3,3,2019-07-06
+Samsung Internet,1,1,2019-07-06
+YaBrowser,1,1,2019-07-06
